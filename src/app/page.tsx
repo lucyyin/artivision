@@ -25,10 +25,9 @@ export default function Home() {
         <section className="py-12">
           <Container className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
             <div className="space-y-4">
-              <h1 className="text-3xl font-medium leading-[1.5] text-[var(--gray-900)]">Build remarkable visuals with Artivision</h1>
+              <h1 className="text-3xl font-medium leading-[1.5] text-[var(--gray-900)]">Artivision: Where Art Meets Justice</h1>
               <p className="text-base leading-[1.5] text-[var(--gray-600)]">
-                Placeholder subheading describing value proposition. Copy will be replaced once final content
-                is available.
+                An R.E. Mountain CAS project dedicated to spolighting the role of art in social justice
               </p>
               {/* No hero buttons per request */}
             </div>
@@ -49,10 +48,10 @@ export default function Home() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
               <div className="space-y-4">
                 <p className="text-base leading-[1.5] text-[var(--gray-700)]">
-                  Placeholder mission statement text. Explain the purpose, values, and the impact you aim to create.
+                  Our mission is to build a space where art and social justice meet. We believe art can tell stories that are too often silenced, spark conversations that people avoid, and help us imagine better futures. This gallery shares the work of artists from many backgrounds who use creativity to challenge injustice and highlight hope. We want visitors not just to look at art, but to connect with it, reflect on it, and carry its message into the world.
                 </p>
                 <p className="text-base leading-[1.5] text-[var(--gray-700)]">
-                  Add more context about programs, community, or goals here. This copy can be replaced later.
+                  Do you want to join our mission and help us use art to make the world a better place? Do you want to spotlight one of your artworks on ARTIVISION's online gallery? Contact us through the information below. 
                 </p>
               </div>
               <div className="placeholder-block aspect-[16/10] w-full" />
@@ -64,9 +63,9 @@ export default function Home() {
           <Container className="space-y-6">
             <h2 className="text-2xl font-medium leading-[1.5] text-[var(--gray-900)]">Contact</h2>
             <div className="text-sm text-[var(--gray-700)]">
-              <p className="mb-2">Email: contact@example.com</p>
-              <p className="mb-2">Phone: (555) 123-4567</p>
-              <p>Address: 123 Artivision Way, Creative City, CA</p>
+              <p className="mb-2">Email: artivisioncas@gmail.com</p>
+              <p className="mb-2">Instagram: @4rtivision</p>
+              <p>Address: Based in Langley, British Columbia</p>
             </div>
           </Container>
         </section>
