@@ -32,7 +32,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     statement:
       "This piece explores the resilience of women under oppressive regimes.",
     category: "painting",
-    image: "/images/image1.jpg",
+    image: "image1.jpg",
   },
   {
     id: "item-2",
@@ -42,7 +42,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     statement:
       "A digital artwork critiquing unequal access to technology across communities.",
     category: "digital art",
-    image: "/images/image1.png",
+    image: "image1.jpg",
   },
   {
     id: "item-3",
