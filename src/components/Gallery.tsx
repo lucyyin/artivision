@@ -46,6 +46,15 @@ const SAMPLE_ITEMS: GalleryItem[] = [
   },
   {
     id: "item-3",
+    title: "A Flicker of Hope",
+    artist: "Tyler Zeng",
+    contact: "@tylerzeng_",
+    statement: "A Flicker of Hope is a commentary on the tension between nature's serenity and humanity's continuous destruction of Earth. The dark, chaotic strokes symbolize environmental damage, while lighter tones breaking through establish a possibility of renewal and recovery. The painting is a calling for society to take accountability and action before it is too late. ",
+    category: "painting",
+    image: "aflickerofhope - Tyler Zeng.jpeg",
+  },
+  {
+    id: "item-3",
     title: "Light of Thought",
     artist: "Tyler Zeng",
     contact: "@tylerzeng_",
