@@ -51,7 +51,7 @@ export default function Home() {
                   Our mission is to build a space where art and social justice meet. We believe art can tell stories that are too often silenced, spark conversations that people avoid, and help us imagine better futures. This gallery shares the work of artists from many backgrounds who use creativity to challenge injustice and highlight hope. We want visitors not just to look at art, but to connect with it, reflect on it, and carry its message into the world.
                 </p>
                 <p className="text-base leading-[1.5] text-[var(--gray-700)]">
-                  Do you want to join our mission and help us use art to make the world a better place? Do you want to spotlight one of your artworks on ARTIVISION's online gallery? Contact us through the information below. 
+                  Do you want to join our mission and help us use art to make the world a better place? Do you want to spotlight one of your artworks on the ARTIVISION online gallery? Contact us through the information below. 
                 </p>
               </div>
               <div className="placeholder-block aspect-[16/10] w-full" />
