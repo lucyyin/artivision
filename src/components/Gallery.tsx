@@ -54,7 +54,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     image: "aflickerofhope - Tyler Zeng.jpeg",
   },
   {
-    id: "item-3",
+    id: "item-4",
     title: "Light of Thought",
     artist: "Tyler Zeng",
     contact: "@tylerzeng_",
@@ -64,7 +64,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     image: "lightofthought - Tyler Zeng.jpeg",
   },
   {
-    id: "item-4",
+    id: "item-5",
     title: "Face of a Thousand Stories",
     artist: "Tyler Zeng",
     contact: "@tylerzeng_",
@@ -74,7 +74,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     image: "faceofathousandstories - Tyler Zeng.jpeg",
   },
   {
-    id: "item-5",
+    id: "item-6",
     title: "A Tranquil Odyssey",
     artist: "Tyler Zeng",
     contact: "@tylerzeng_",
@@ -84,7 +84,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     image: "atranquilodyssey (1) - Tyler Zeng.jpeg",
   },
   {
-    id: "item-6",
+    id: "item-7",
     title: "Untitled Piece",
     artist: "Thea D.",
     contact: "No Contact",
@@ -93,7 +93,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     image: "1.0 - Thea D.png",
   },
   {
-    id: "item-7",
+    id: "item-8",
     title: "Waterfall",
     artist: "Justin Yu",
     contact: "No Contact",
@@ -102,7 +102,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     image: "IMG_3640 copy - Justin Yu.JPEG",
   },
   {
-    id: "item-8",
+    id: "item-9",
     title: "The Party",
     artist: "Brandon Yew",
     contact: "No Contact",
