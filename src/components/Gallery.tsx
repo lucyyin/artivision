@@ -72,7 +72,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     statement:
       "A Tranquil Odyssey is an abstract piece that captures our planet as an interconnected whole. Black represents dark and introspective nights, brown delves into the rich soil that produces our lush vegetation, blue mirrors the serene bodies of water that cover our planet, and white highlights the icy tundras in the northern hemisphere. Orange’s subtle appearance reflects the bursts of energy that give our planet life.",
     category: "painting",
-    image: "atranquilobyssey (1) - Tyler Zeng.jpeg",
+    image: "atranquilodyssey (1) - Tyler Zeng.jpeg",
   },
   {
     id: "item-6",
@@ -80,7 +80,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     artist: "Thea D.",
     contact: "No Contact",
     statement: "This artwork displays my constant restlessness as we continue to watch our world crumble. War, politics, pollution— all of it feels like the life I wanted to live is already doomed before I even got a chance. In this slump of helplessness and despair, society's lack of support and effective action for those in need only worsens the sense of dread. This work is meant to display the feeling of facing closed opportunities, closed minds, and closed futures as someone who has yet to turn towards ignorance to solve problems.",
-    category: "painting",
+    category: "digital art",
     image: "1.0 - Thea D.png",
   },
   {
@@ -99,7 +99,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     contact: "No Contact",
     statement: "I went to this party. Madd sendyyy. Had to snap a pic rq.",
     category: "photography",
-    image: "IMG_9246 - Justin Yu.JPEG",
+    image: "IMG_9264 - Justin Yu.JPEG",
   },
 ];
 
