@@ -27,11 +27,9 @@ export default function Home() {
             <div className="space-y-4">
               <h1 className="text-3xl font-medium leading-[1.5] text-[var(--gray-900)]">Artivision: Where Art Meets Justice</h1>
               <p className="text-base leading-[1.5] text-[var(--gray-600)]">
-                An R.E. Mountain CAS project dedicated to spolighting the role of art in social justice
+                An R.E. Mountain CAS project dedicated to spotlighting the role of art in social justice
               </p>
-              {/* No hero buttons per request */}
             </div>
-            {/* Remove hero image block per request */}
           </Container>
         </section>
 
