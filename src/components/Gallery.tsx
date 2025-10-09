@@ -137,7 +137,7 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     contact: "@lemurinkm",
     statement: "This piece is about something blooming and piercing through a surface. Sharp, round, and different textured shapes are put together to resemble a complicated situation where soft thing and sharp things can both bloom at once in life.",
     category: "3D",
-    image: "michaela.png",
+    image: "michaela.png.jpeg",
   },
 ];
 
