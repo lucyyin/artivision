@@ -21,6 +21,8 @@ const CATEGORIES: Category[] = [
   "comic",
   "digital art",
   "photography",
+  "poetry",
+  "3D",
 ];
 
 const SAMPLE_ITEMS: GalleryItem[] = [
@@ -109,6 +111,33 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     statement: "I went to this party. Madd sendyyy. Had to snap a pic rq.",
     category: "photography",
     image: "IMG_9264 - Justin Yu.JPEG",
+  },
+  {
+    id: "item-10",
+    title: "The Gay Guys",
+    artist: "Jaylynn Bamba",
+    contact: "@junifrogart",
+    statement: "No statement.",
+    category: "Digital Art",
+    image: "jaylynn.png",
+  },
+  {
+    id: "item-11",
+    title: "Those Scars",
+    artist: "Cera Moon",
+    contact: "@s.yeon8_",
+    statement: "This palindrome poem encapsulates how reminders of pain, whether physical or mental, is a demanding battle to overcome. When read top to bottom, the speaker expresses disgust towards their scars; it is shown that will never fade, and so, the pain too will never disappear. Yet, when read from bottom to top, the meaning of the poem shifts into something more hopeful. The speaker convinces the readers that scars do not have to be reminders of just pain, but rather resilience and strength. This poem was written with the intention to provide strength to those who feel they are weighed down by themselves. Whether those hardships stem from grief, social pressures, insecurities, mental health, or oppression, this poem hopes to provide comfort for those who feel lost in their pain.",
+    category: "Poetry",
+    image: "cera.png",
+  },
+  {
+    id: "item-12",
+    title: "Untitled Piece",
+    artist: "Michaela Ro",
+    contact: "@lemurinkm",
+    statement: "This piece is about something blooming and piercing through a surface. Sharp, round, and different textured shapes are put together to resemble a complicated situation where soft thing and sharp things can both bloom at once in life.",
+    category: "3D",
+    image: "michaela.png",
   },
 ];
 
