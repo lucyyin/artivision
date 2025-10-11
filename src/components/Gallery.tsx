@@ -139,6 +139,15 @@ const SAMPLE_ITEMS: GalleryItem[] = [
     category: "3D",
     image: "michaela.png.jpeg",
   },
+  {
+    id: "item-13",
+    title: "Resistance",
+    artist: "Emil Hung",
+    contact: "No Contact",
+    statement: "My piece, titled 'resistance' is about the collective strengths of individuals. I made the choice to incorporate raised fists, painted in different colours symbolises our society's diverse voices coming together in unity to emphasise the power of fighting together.",
+    category: "painting",
+    image: "IMG_8839.png",
+  },
 ];
 
 export function Gallery() {
